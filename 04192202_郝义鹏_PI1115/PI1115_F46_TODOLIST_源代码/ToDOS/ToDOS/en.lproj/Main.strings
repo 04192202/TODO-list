@@ -1,0 +1,12 @@
+
+/* Class = "UINavigationItem"; title = "新增待办事项"; ObjectID = "O8b-Ym-Ea8"; */
+"O8b-Ym-Ea8.title" = "新增待办事项";
+
+/* Class = "UINavigationItem"; title = "待办事项"; ObjectID = "df7-Xb-JHP"; */
+"df7-Xb-JHP.title" = "待办事项";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "jFC-WU-IxS"; */
+"jFC-WU-IxS.normalTitle" = "Button";
+
+/* Class = "UIBarButtonItem"; title = "返回"; ObjectID = "pTs-ud-Rrq"; */
+"pTs-ud-Rrq.title" = "返回";
